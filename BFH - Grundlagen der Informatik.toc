@@ -1,0 +1,93 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einf\IeC {\"u}hrung}{4}
+\contentsline {section}{\numberline {1.1}Lizenzen und Patente}{4}
+\contentsline {section}{\numberline {1.2}Syntax und Semantik}{4}
+\contentsline {section}{\numberline {1.3}Analog vs Digital}{4}
+\contentsline {section}{\numberline {1.4}Daten und Informationen}{5}
+\contentsline {section}{\numberline {1.5}Definition Computer}{5}
+\contentsline {section}{\numberline {1.6}Programmiersprachen \& Algorithmen}{5}
+\contentsline {chapter}{\numberline {2}Zahlensysteme}{6}
+\contentsline {section}{\numberline {2.1}Dezimalsystem}{6}
+\contentsline {subsection}{\numberline {2.1.1}Umwandlung Basis n zu Basis 10}{7}
+\contentsline {subsection}{\numberline {2.1.2}Umwandlung Basis 10 zu Basis n}{7}
+\contentsline {subsection}{\numberline {2.1.3}Umwandlung von Basis m zu Basis n}{7}
+\contentsline {section}{\numberline {2.2}Hexadezimales System}{8}
+\contentsline {section}{\numberline {2.3}Bin\IeC {\"a}rsystem}{8}
+\contentsline {section}{\numberline {2.4}Umwandlung Hexadezimal und Bin\IeC {\"a}r}{9}
+\contentsline {section}{\numberline {2.5}Negative Zahlen im Bin\IeC {\"a}rsystem}{9}
+\contentsline {section}{\numberline {2.6}Speichereinheiten}{10}
+\contentsline {section}{\numberline {2.7}Bin\IeC {\"a}raddition}{11}
+\contentsline {subsection}{\numberline {2.7.1}Flags}{11}
+\contentsline {section}{\numberline {2.8}Zeichenspeicherung}{13}
+\contentsline {chapter}{\numberline {3}Digitaltechnik}{14}
+\contentsline {section}{\numberline {3.1}Transistoren}{14}
+\contentsline {section}{\numberline {3.2}Logische Gatter}{15}
+\contentsline {section}{\numberline {3.3}only-NAND}{15}
+\contentsline {section}{\numberline {3.4}RS-Flipflop}{16}
+\contentsline {section}{\numberline {3.5}Multiplexer}{16}
+\contentsline {section}{\numberline {3.6}Decoder}{17}
+\contentsline {section}{\numberline {3.7}Arithmetische Schaltungen}{17}
+\contentsline {subsection}{\numberline {3.7.1}Halbaddierer}{17}
+\contentsline {subsection}{\numberline {3.7.2}Volladdierer}{18}
+\contentsline {subsection}{\numberline {3.7.3}n-Bit Addierer}{18}
+\contentsline {section}{\numberline {3.8}Read-only memory}{19}
+\contentsline {section}{\numberline {3.9}Random-access memory}{20}
+\contentsline {section}{\numberline {3.10}Speichergr\IeC {\"o}sse}{21}
+\contentsline {chapter}{\numberline {4}Computerarchitektur}{23}
+\contentsline {section}{\numberline {4.1}Von-Neumann Architektur}{23}
+\contentsline {section}{\numberline {4.2}CPU}{23}
+\contentsline {subsection}{\numberline {4.2.1}ALU (Arithmetic Logic Unit)}{24}
+\contentsline {subsection}{\numberline {4.2.2}CU (Control Unit)}{24}
+\contentsline {subsection}{\numberline {4.2.3}Clock}{24}
+\contentsline {section}{\numberline {4.3}Register}{24}
+\contentsline {subsection}{\numberline {4.3.1}Instruction Pointer (IP)}{24}
+\contentsline {subsection}{\numberline {4.3.2}Adress-Register (AR)}{24}
+\contentsline {subsection}{\numberline {4.3.3}Instruktionsregister (IR)}{24}
+\contentsline {subsection}{\numberline {4.3.4}Accumulator / Prozessor Register}{25}
+\contentsline {section}{\numberline {4.4}Memory (Programm-/Datenspeicher)}{25}
+\contentsline {section}{\numberline {4.5}Bussystem}{25}
+\contentsline {section}{\numberline {4.6}Instruction Set}{25}
+\contentsline {section}{\numberline {4.7}Instruction Execution Cycle}{25}
+\contentsline {chapter}{\numberline {5}6502 Assemblersprache}{28}
+\contentsline {section}{\numberline {5.1}Die 6502 Architektur}{28}
+\contentsline {subsection}{\numberline {5.1.1}Register des 6502}{28}
+\contentsline {section}{\numberline {5.2}Logische / Arithmetische Operationen}{29}
+\contentsline {section}{\numberline {5.3}Memory Transfers}{29}
+\contentsline {section}{\numberline {5.4}Addressing Modes}{30}
+\contentsline {subsection}{\numberline {5.4.1}Accumulator}{30}
+\contentsline {subsection}{\numberline {5.4.2}Immediate}{30}
+\contentsline {subsection}{\numberline {5.4.3}Absolute Addressing}{30}
+\contentsline {subsection}{\numberline {5.4.4}Relative}{31}
+\contentsline {subsection}{\numberline {5.4.5}Zero-Page}{32}
+\contentsline {subsection}{\numberline {5.4.6}Indirect}{32}
+\contentsline {subsection}{\numberline {5.4.7}Absolute Indexed Addressing}{32}
+\contentsline {subsection}{\numberline {5.4.8}Indexed Zero Page Addressing}{32}
+\contentsline {subsection}{\numberline {5.4.9}Indexed Indirect Addressing (Indirect,X)}{32}
+\contentsline {subsection}{\numberline {5.4.10}Indirect Indexed Addressing (Indirect),Y}{33}
+\contentsline {section}{\numberline {5.5}Conditional Jumps}{33}
+\contentsline {subsection}{\numberline {5.5.1}Conditional Jump x86 Spezifisch}{33}
+\contentsline {subsubsection}{unsigned}{33}
+\contentsline {subsubsection}{signed}{34}
+\contentsline {section}{\numberline {5.6}Stack}{34}
+\contentsline {subsection}{\numberline {5.6.1}PHA: Push Akku Value on Stack}{34}
+\contentsline {subsection}{\numberline {5.6.2}PHP: Push Programcounter Value on Stack}{35}
+\contentsline {subsection}{\numberline {5.6.3}PLA: Pop Data from Stack, store it in Akku}{36}
+\contentsline {subsection}{\numberline {5.6.4}Endian}{36}
+\contentsline {section}{\numberline {5.7}Subroutines}{37}
+\contentsline {subsection}{\numberline {5.7.1}JSR}{37}
+\contentsline {subsection}{\numberline {5.7.2}RTS}{37}
+\contentsline {chapter}{\numberline {6}Die Programmiersprache C}{38}
+\contentsline {section}{\numberline {6.1}Variablen}{38}
+\contentsline {section}{\numberline {6.2}Pointers}{39}
+\contentsline {subsection}{\numberline {6.2.1}Einfaches Dereferenzieren}{39}
+\contentsline {subsubsection}{Weitere Beispiele:}{39}
+\contentsline {subsection}{\numberline {6.2.2}Doppeltes Dereferenzieren}{41}
+\contentsline {subsubsection}{weiteres Beispiel}{41}
+\contentsline {section}{\numberline {6.3}Nutzen von Pointern}{42}
+\contentsline {section}{\numberline {6.4}Arrays}{42}
+\contentsline {section}{\numberline {6.5}Dynamische Speicherallozierung/ Dynamic Memory Allocation}{43}
+\contentsline {section}{\numberline {6.6}Speichersegmente}{45}
+\contentsline {section}{\numberline {6.7}Listen}{46}
+\contentsline {section}{\numberline {6.8}Operator Precedence}{48}
+\contentsline {subsection}{\numberline {6.8.1}Beispiele}{48}
+\contentsline {chapter}{\numberline {7}Tables}{49}
